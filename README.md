@@ -1,6 +1,4 @@
-# Hi! 👋 I'm Nishan Khan 🧙‍♂️
-
-## print(Who_am_I) 🧙‍♂️
+## print(who_am_i) 🧙‍♂️
 - **Name**: Nishan Khan  
 - **Currently**: Pursuing Bachelor's in Computer Science and Engineering at [North South University](https://www.northsouth.edu/) 🏫  
 - **Interests**: FullStack Dev, Deep Learning, Machine Learning, Coding 💻  
@@ -9,15 +7,14 @@
 
 ### Programming Languages
 - 🖥️ **Python**
-- 🌐 **JavaScript**
 - 🔄 **Java**
 - ⏺️ **C++**
 - ⚙️ **C**
-- ✨ **SQL**
-- 💻 **TypeScript**
-- 📦 **HTML & CSS**
 
 ### Frontend
+- 📦 **HTML & CSS**
+- 🌐 **JavaScript**
+- 💻 **TypeScript**
 - 💻 **React.js**
 - 🎨 **CSS Frameworks**: Bootstrap, Tailwind CSS
 
