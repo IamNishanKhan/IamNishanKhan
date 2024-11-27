@@ -26,7 +26,7 @@
 ### Machine Learning / Deep Learning
 - 🤖 **TensorFlow**
 - 🧠 **PyTorch**
-- 🟩 **Mamba** (Matrix Operations)
+- 🟩 **Mamba SSM**
 - 📊 **Scikit-Learn**
 - 📐 **Keras**
 - 🔍 **OpenCV**
