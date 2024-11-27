@@ -1,17 +1,9 @@
 # Hi! 👋 I'm Nishan Khan 🧙‍♂️
 
-## About Me 🧙‍♂️
+## print(Who_am_I) 🧙‍♂️
 - **Name**: Nishan Khan  
 - **Currently**: Pursuing Bachelor's in Computer Science and Engineering at [North South University](https://www.northsouth.edu/) 🏫  
 - **Interests**: FullStack Dev, Deep Learning, Machine Learning, Coding 💻  
-- **Languages**: Fluent in both Frontend and Backend 🔥  
-- **Passionate**: Making magic with data! 🔮
-
-## My CS Journey 📜
-N1sh4n's Journey:
-- 📚 **Bachelor's in CSE**
-- 🤖 **Passion**: Machine Learning & Deep Learning
-- 🧠 **Exploring**: Neural Networks & Algorithms
 
 ## Languages & Tools 🔧
 
