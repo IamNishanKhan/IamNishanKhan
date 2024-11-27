@@ -1,9 +1,9 @@
-## print(who_am_i) 🧙‍♂️
+## About Me : print(who_am_i) 
 - **Name**: Nishan Khan  
 - **Currently**: Pursuing Bachelor's in Computer Science and Engineering at [North South University](https://www.northsouth.edu/) 🏫  
 - **Interests**: FullStack Dev, Deep Learning, Machine Learning, Coding 💻  
 
-## Languages & Tools 🔧
+## Nishan's Toolbox 🔧
 
 ### Programming Languages
 - 🖥️ **Python**
