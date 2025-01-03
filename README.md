@@ -3,6 +3,7 @@
 🌟 **Name**: Nishan Khan  
 🎓 **Currently**: Pursuing Bachelor's in Computer Science and Engineering at [North South University](https://www.northsouth.edu/) 🏫  
 🚀 **Interests**: FullStack Dev, Deep Learning, Machine Learning, Coding 💻  
+<img src="https://github.com/IamNishanKhan/IamNishanKhan/raw/files/git_snake.svg" alt="SVG File" width="500px">  
 
 ## Nishan's Toolbox 🔧
 
